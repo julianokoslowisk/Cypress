@@ -1,1 +1,1 @@
-# Automa-o
+Exemplo de Automação Cypress
